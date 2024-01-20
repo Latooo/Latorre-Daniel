@@ -2,7 +2,7 @@ Como agregue mis archivos a github:
 
 Primero abri el terminal y agregue mi cuenta de git con los comandos:
 
-git config --global user.name "Nombre de usuario"
+git config --global user.name "Nombre de usuario",
 git config --global user.email "Correo del usuario"
 
 Despues cree una carpeta en mi escritorio con subcarpetas desde el Dia 1 hasta el Dia 5, las subcarpetas tenian los ejercicios que hemos trabajado.
