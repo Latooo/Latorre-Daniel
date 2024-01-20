@@ -1,0 +1,121 @@
+Algoritmo para sumar dos números
+
+Inicio
+1.Ingresar primer número.
+2.Guardar en variable A.
+3.Ingresar segundo número.
+4.Guardar en variable B.
+5.Sumar A y B.
+6.Guardar resultado en variable R.
+7.Mostrar variable R.
+Fin
+
+Algoritmo para encontrar el mayor de tres números
+
+Inicio
+1.Ingresar primer número.
+2.Guardar en variable A.
+3.Ingresar segundo número.
+4.Guardar en variable B.
+5.Ingresar tercer número.
+6.Guardar en variable C.
+7.Comparar A y B para saber cual es el mayor.
+8.Comparar C con el resultado anterior.
+9.Mostrar el número mas grande.
+Fin
+
+Algoritmo para calcular el factorial de un número
+
+Inicio
+1.Ingresa el número entero no negativo para el cual deseas calcular el factorial.
+2.Establece el factorial inicial como 1.
+3.Establece un contador en 1.
+4.Multiplica el factorial actual por el valor del contador.
+5.Incrementa el contador en 1.
+6.El resultado es el factorial del número ingresado.
+Fin
+
+Algoritmo para verificar si un número es primo
+
+Inicio:
+1.Ingresa el número que deseas verificar
+2.Si el número es igual a 1 no es primo. Termina.
+3.Si el número es igual a 2 es primo. Termina.
+4.Inicia un bucle que recorre los números desde 2 hasta la raíz cuadrada del número ingresado (puedes redondear hacia arriba).
+5.Si el número es divisible por algún número en el rango no es primo. Termina.
+6.Incrementa el contador en 1.
+7.Si el bucle ha terminado y no se encontró ningún divisor el número es primo.
+Fin
+
+Algoritmo para convertir grados celsius a fahrenheit
+
+Inicio
+1.Ingresa la temperatura en grados Celsius que deseas convertir.
+2.Utiliza formula de conversión
+3.F=(C×9/5)+32, donde F es la temperatura en grados Fahrenheit y C es la temperatura en grados Celsius.
+4.Muestra el resultado de la conversión.
+Fin
+
+Algortimo para determinar si un número es par o impar
+
+Inicio
+1.Ingresar el número que deseas determinar.
+2.Dividir el número entre 2.
+3.Si el residuo es 0 entonces el número es par.
+4.Si el residuo no es igual a 0 el número es impar.
+Fin
+
+Algoritmo para calcular el área de un triángulo
+
+Inicio
+1.Ingresar el valor de la base.
+2.Ingresar el valor de la altura.
+3.Multiplicar base por altura y dividir entre 2.
+4.Mostrar el resultado de la operación.
+Fin.
+
+Algoritmo para generar la serie Fibonacci
+
+Inicio
+1.Ingresa el número de términos que deseas generar en la serie de Fibonacci.
+2.Inicializa dos variables A y B con los valores iniciales de 0 y 1.
+3.Establece un contador en 0.
+4.Mientras el contador sea menor que el número de términos deseado.
+5.Muestra el valor actual de A (es el siguiente término en la serie).
+6.Calcula el siguiente término sumando A y B.
+7.Asigna el valor de B a A y el valor calculado al B.
+8.Incrementa el contador en 1.
+Fin
+
+Algoritmo para generar una tabla de multiplicar
+
+Inicio
+1.Ingresa el número para el cual deseas generar la tabla de multiplicar.
+2.Establece un contador en 1.
+3.Mientras el contador sea menor o igual a un límite deseado. 
+4.Calcula el resultado de multiplicar el número ingresado por el contador.
+5.Muestra el resultado en la tabla.
+6.Incrementa el contador en 1.
+Fin:
+
+Algoritmo para calcular el promedio de una lista de números
+
+Algorimo para calcular el área de un círculo
+
+Inicio
+1.Ingresa el radio del círculo.
+2.Utiliza la fórmula para calcular el área del círculo.
+3.A=π×r2, A es el área y r es el radio del círculo.
+4.Calcula el área utilizando la fórmula.
+5.Mostrar el resultado de la fórmula.
+Fin
+
+
+
+
+
+
+
+
+
+
